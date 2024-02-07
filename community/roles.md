@@ -313,8 +313,8 @@
         </ul>
       </td>
       <td style="text-align: center;">2</td>
-      <td style="text-align: center;">Max82 BCFD <br> Antonin LSFD</td>
-      <td style="text-align: center;">Max82 BCFD <br> Antonin LSFD</td>
+      <td style="text-align: center;">Max82 BCFD <br> Thomyboy LSFD</td>
+      <td style="text-align: center;">Max82 BCFD <br> Thomyboy LSFD</td>
       <td style="text-align: center;">Responsable de service</td>
     </tr>
     <td style="text-align: center;">Référent Medical (Life)</td>
