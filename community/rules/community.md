@@ -39,8 +39,7 @@ La réunion permet d’échanger, d’avoir des réflexions tous ensemble en voc
 
 * Réunion tous les dimanches soir à 21 heures (heure française) sur Discord (sauf exception majeure).
 * Tout le monde peut déposer un sujet (à l’exception d’une demande de sanction, qui doit être validé par les médiateurs).
-* Il est interdit de déposer un sujet de réunion anonymement ou au nom d’un groupe. Il est toutefois autorisé de déposer un sujet à plusieurs mais l’ensemble des pseudonymes doivent être écrit.
-* Tout le monde a droit à la parole (il faut lever la main dans le chat).
+* Il est interdit de déposer un sujet de réunion anonymement ou au nom d’un groupe. ( Exception pour les ajout de membre dans un groupe suite a un départ ou une exclusion ) Il est toutefois autorisé de déposer un sujet à plusieurs mais l’ensemble des pseudonymes doivent être écrit. * Tout le monde a droit à la parole (il faut lever la main dans le chat).
 * Tout le monde doit respecter la parole des autres (on ne coupe pas la parole, on attend son tour).
 * Il n’est pas obligatoire d’assister aux réunions, mais c’est toutefois conseillé afin d’être au mieux informé des nouveautés.
 * Tout sujet de réunion contenant un vote devra être soumis à un support d’explication / d’argumentation (support au choix: directement dans le sujet, vidéo, texte, diaporama, etc…) accessible à tous les membres **dès son dépôt**.
